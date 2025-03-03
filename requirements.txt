@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+python-multipart
+boto3
+MLflow
+numpy
+Pillow
+scikit-image
+uvicorn[standard]
+websockets
