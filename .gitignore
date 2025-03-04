@@ -2,5 +2,4 @@ api
 mlruns
 images
 model.pkl
-train.ipynb
 __pycache__
